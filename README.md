@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00d4aa&height=200&section=header&text=SameerHassan%20%7C%20Markhore007&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Vision%20Engineer&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00d4aa&height=200&section=header&text=Sameer-Hassan%20%7C%20Markhore007&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Vision%20Engineer&descAlignY=55&descSize=16)
 
 <!-- Badges -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Building+scalable+web+apps...;Computer+Vision+with+OpenCV+%26+YOLOv8;Full+Stack+%7C+Next.js+%7C+PostgreSQL;Open+to+Freelance+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
